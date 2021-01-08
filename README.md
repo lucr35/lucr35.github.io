@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Lucr35 GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/lucr35/lucr35.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
